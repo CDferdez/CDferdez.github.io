@@ -1,23 +1,17 @@
 ---
 title: "About"
-date: "2018-07-19"
-author: "Radek"
+date: "2019-11-27"
+author: ""
 path: "/about"
+coverImage: "../images/about.JPG"
 ---
 
-## Hi there
+### Hi there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+My name is Christian, currently a Junior at the **University of Illinois at Urbana-Champaign**
+studying **Computer Engineering**. Some of the things I am fascinated by include: Software Engineering and Cloud Technologies,
+as well as a little bit of Web Development. You can usually find me playing tennis or League in my freetime. 
+**[op.gg](https://na.op.gg/summoner/userName=Ch%C2%AAn)**
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The starter includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
-
-So, there you have it... enjoy!
+---
+*Website built using [@panr's](https://github.com/panr) starter*
