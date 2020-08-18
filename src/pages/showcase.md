@@ -5,8 +5,6 @@ author: "Christian"
 path: "/showcase"
 ---
 
-## Favorite Songs
 
-`youtube: GvR3_le8X-0`
 
 
