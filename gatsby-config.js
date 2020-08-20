@@ -18,21 +18,13 @@ module.exports = {
     logoText: 'christian_fernandez',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 3,
+    showMenuItems: 4,
     menuMoreText: 'Show more',
     mainMenu: [
-      {
-        title: 'Home',
-        path: '/',
-      },
-      {
-        title: 'About',
-        path: '/about',
-      },
-      {
-        title: 'Showcase',
-        path: '/showcase',
-      },
+      { title: 'Home', path: '/'},
+      { title: 'About', path: '/about'},
+      { title: 'Showcase', path: '/showcase' },
+      { title: 'Contact Me', path: '/contact' }
     ],
   },
   plugins: [
