@@ -1,0 +1,20 @@
+.contact-section {
+    width: 50%;
+    text-align: left;
+    float: left;
+}
+
+.contact-me-form { 
+    input, textarea {
+        display: block;
+        width: 50%;
+    }
+
+    input {
+        height: 2.2rem;
+    }
+
+    textarea {
+        width: 60%;
+    }
+}
